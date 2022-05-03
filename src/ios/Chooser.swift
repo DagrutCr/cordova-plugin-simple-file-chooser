@@ -1,7 +1,8 @@
 import UIKit
 import MobileCoreServices
 import Foundation
-import Cordova
+// 20220503: Removed because it seems not needed on other plugins, and crashes for us.
+// import Cordova
 
 @objc(Chooser)
 class Chooser : CDVPlugin {

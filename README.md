@@ -1,5 +1,9 @@
 # Chooser
 
+Fork changes :
+
+- 20220503 : Now builds for iOS. (See src/ios/Chooser.swift:4)
+
 ### Overview
 
 This plugin is an forked version of cordova plugin chooser that provides multiple file selection functionality and removes base64 functionality as we can use ionic native file plugin to get file directly
